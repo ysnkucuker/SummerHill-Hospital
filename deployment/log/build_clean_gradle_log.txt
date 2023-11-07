@@ -1,0 +1,39 @@
+Initialized native services in: C:\Users\yasin\.gradle\native
+Initialized jansi services in: C:\Users\yasin\.gradle\native
+Received JVM installation metadata from 'C:\Program Files\Eclipse Adoptium\jdk-11.0.16.101-hotspot': {JAVA_HOME=C:\Program Files\Eclipse Adoptium\jdk-11.0.16.101-hotspot, JAVA_VERSION=11.0.16.1, JAVA_VENDOR=Eclipse Adoptium, RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=11.0.16.1+1, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=11.0.16.1+1, VM_VENDOR=Eclipse Adoptium, OS_ARCH=amd64}
+The client will now receive all logging from the daemon (pid: 22500). The daemon log file: C:\Users\yasin\.gradle\daemon\7.6\daemon-22500.out.log
+Starting 10th build in daemon [uptime: 1 hrs 24 mins 15.532 secs, performance: 99%, non-heap usage: 25% of 256 MiB]
+Using 16 worker leases.
+Now considering [C:\Users\yasin\Desktop\Yeni klasör\deployment, C:\Users\yasin\Desktop\Mendix Apps\02 - Rapid\02 - MockHRService\deployment] as hierarchies to watch
+Watching the file system is configured to be enabled if available
+File system watching is active
+Starting Build
+Settings evaluated using settings file 'C:\Users\yasin\Desktop\Yeni klasör\deployment\settings.gradle'.
+Projects loaded. Root project using build file 'C:\Users\yasin\Desktop\Yeni klasör\deployment\build.gradle'.
+Included projects: [root project 'deployment']
+
+> Configure project :
+Evaluating root project 'deployment' using build file 'C:\Users\yasin\Desktop\Yeni klasör\deployment\build.gradle'.
+Compiling script 'C:\Users\yasin\Desktop\Yeni klasör\deployment\variables.gradle' using SubsetScriptTransformer.
+Compiling script 'C:\Users\yasin\Desktop\Yeni klasör\deployment\variables.gradle' using BuildScriptTransformer.
+All projects evaluated.
+Task name matched 'clean'
+Selected primary task 'clean' from project :
+Tasks to be executed: [task ':clean']
+Tasks that were excluded: []
+Resolve mutations for :clean (Thread[Execution worker,5,main]) started.
+destroyer locations for task group 0 (Thread[Execution worker,5,main]) started.
+:clean (Thread[Execution worker Thread 2,5,main]) started.
+
+> Task :clean UP-TO-DATE
+Caching disabled for task ':clean' because:
+  Build cache is disabled
+Task ':clean' is not up-to-date because:
+  Task has not declared any outputs despite executing actions.
+
+BUİLD SUCCESSFUL in 3s
+1 actionable task: 1 up-to-date
+Watched directory hierarchies: [C:\Users\yasin\Desktop\Mendix Apps\02 - Rapid\02 - MockHRService\deployment]
+
+
+
